@@ -7,3 +7,4 @@ md = mark down.
 commit = finalised change.
 installed git bash and set it up.
 ~ (tilled) symbol shows that we are in our root direectory.
+clone command...... git clone <link of repo>.
